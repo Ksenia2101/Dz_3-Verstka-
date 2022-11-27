@@ -159,6 +159,12 @@ div {
     margin-left: 10px;
     flex-grow: 2;
 }
+html {
+    font-size 20px;
+}
+body {
+    font-size 80%;
+}
 
 @media ma {
 
