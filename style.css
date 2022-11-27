@@ -145,11 +145,6 @@ div.about {
     flex-wrap: wrap;
 }
 
-div {
-    widht: 20vw;
-    height: 20vw;
-}
-
 .about .photo {
     align-self: flex-start;
     flex-grow: 1;
